@@ -1,0 +1,1 @@
+เเตกไฟล์ก่อนใช้งานโดยการกดเข้าไปใน projectfinal1 เเล้วกด view raw เเล้วเเตกไฟล์หลังจากนั้นนำตัว extension ตามวิธีในสไลด์นี้ https://drive.google.com/file/d/1Ic3_u9U9VCIuTs5mx239FFFWBaKRJJZ4/view?usp=sharing
